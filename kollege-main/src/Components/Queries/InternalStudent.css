@@ -1,0 +1,60 @@
+/* Navbar styles */
+.navbar {
+    background-color: #333;
+    padding: 10px;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .navbar-button {
+    color: #fff;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  /* Main content container */
+  .main-content {
+    padding: 20px;
+  }
+  
+  /* Button groups */
+  .options-buttons {
+    margin-bottom: 20px;
+  }
+  
+  /* Search controls */
+  .search-controls {
+    margin-bottom: 10px;
+  }
+  
+  .search-controls input,
+  .search-controls select {
+    margin-right: 10px;
+  }
+  
+  /* Company list */
+  .company-list li {
+    margin-bottom: 5px;
+  }
+  
+  /* Dashboard chart placeholder */
+  .chart-placeholder {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 10px;
+  }
+  
+  /* Optional: style table in the application tracking */
+  .application-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .application-table th,
+  .application-table td {
+    padding: 5px;
+    border: 1px solid #ddd;
+  }
+  
